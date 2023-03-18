@@ -1306,7 +1306,7 @@ VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 广东少儿,http://fxhack.f3322.org:8000/udp/239.77.0.250:5146
 广东经济,http://fxhack.f3322.org:8000/udp/239.77.0.85:5146
 广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
-珠江TV-1,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
+珠江卫视,http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
 点掌财经,http://cclive.aniu.tv/live/anzb.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 广州综合,http://fxhack.f3322.org:8000/udp/239.253.43.71:5146
