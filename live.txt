@@ -1020,23 +1020,22 @@ CCTV-17农业农村,http://39.135.138.59:18890/TVOD/88888910/224/3221225909/inde
 东南卫视 HD,http://39.135.138.59:18890/TVOD/88888910/224/3221225657/index.m3u8
 江西卫视 HD,http://39.135.138.59:18890/TVOD/88888910/224/3221225705/index.m3u8
 🇨🇳 | 港澳台频道,#genre#
-
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.flv 
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.flv
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.flv
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.flv
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.flv
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.flv
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.flv
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.flv 
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.flv
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
