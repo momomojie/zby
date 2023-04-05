@@ -1602,6 +1602,19 @@ TLC, http://www.yshmzmc.top/gtjm.php?id=live1005
 动物星球, http://www.yshmzmc.top/gtjm.php?id=live1004
 VIUTV6,http://shazui.8866.org:800/hls/85/index.m3u8
 🇨🇳 | 广东频道,#genre#
+广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh$高清1080P
+
+广州综合,http://9.zhxinda.xyz/gz.php?id=zhonghe$高清720P
+
+广州法治,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzfz$高清1080P
+
+广州新闻,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzxw$高清1080P
+
+广州新闻,http://9.zhxinda.xyz/gz.php?id=xinwen$高清720P
+
+广州影视,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzys$高清1080P
+
+广州影视,http://9.zhxinda.xyz/gz.php?id=yingshi$高清720P
 广东新闻,http://fxhack.f3322.org:8000/udp/239.77.0.173:5146
 广东影视,http://fxhack.f3322.org:8000/udp/239.77.0.217:5146
 广东公共,http://fxhack.f3322.org:8000/udp/239.77.0.225:5146
