@@ -36,6 +36,40 @@ CCTV15,http://117.169.124.149:8080/live/cctv-15/index.m3u8$1080P 8M
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/index.m3u8$1080P 8M
 
 CCTV17,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv17/index.m3u$1080P 8M
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8$1080P 高清
+
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8$1080P 高清
+
+CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8$1080P 高清
+
+CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8$1080P 高清
+
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8$1080P 高清
+
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8$1080P 高清
+
+CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8$1080P 高清
+
+CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8$1080P 高清
+
+CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8$1080P 高清
+
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8$1080P 高清
+
+CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8$1080P 高清
+
+CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8$1080P 高清
+
+CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8$1080P 高清
+
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8$1080P 高清
+
+CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8$1080P 高清
+
+CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8$1080P 高清
+
+CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8$1080P 高清
+
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000/mnf.m3u8$百事通8M
 
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000/mnf.m3u8$百事通8M
